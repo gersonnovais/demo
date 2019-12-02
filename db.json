@@ -14,5 +14,15 @@
   "pentago": [
     { "id": 1, "title": "Ivan de Vargas" },
     { "id": 2, "title": "Gerson Novais" }
-  ]
+  ],
+  "IDAF_S":{
+    "Status": "s",
+    "Mensagem": "",
+    "Dados": ""
+  },
+  "IDAF_E":{
+    "Status": "e",
+    "Mensagem": "Um Erro",
+    "Dados": ""
+  }
 }
