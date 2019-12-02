@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "pentago": [
+    { "id": 1, "title": "Ivan de Vargas" },
+    { "id": 2, "title": "Gerson Novais" }
+  ]
 }
